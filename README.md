@@ -3,7 +3,7 @@
 ## 1. Tools Installed
 In the initial phase of this assessment, I set up and configured the essential environment required:
 * **Cursor**: An AI-based code editor used as the primary development software/platform in this test.
-* **Claude Code Add-on**: An Ai extension from Anthropic within Cursor, utilized for automating tasks and streamlining text-based analysis.
+* **Claude Code Add-on**: An AI extension from Anthropic within Cursor, utilized for automating tasks and streamlining text-based analysis.
 * **Codex Add-on**: An AI extension within Cursor, designed to optimize code and script-writing efficiency.
 * **Git & GitHub**: Version control system used to track changes, document project progress, and host the repository, accessible through a browser and by cloning a local repository.
 
