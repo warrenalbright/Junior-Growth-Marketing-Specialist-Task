@@ -20,3 +20,28 @@
   * YouTube: "Is SEO Actually Dead in 2025?" (Feb 2025)
   * YouTube: "What is AEO – AEO Course by Ahrefs" (Apr 2026)
 * **Date Collected:** 2026-06-24
+
+---
+
+### 2. Aleyda Solis
+* **Type:** Independent SEO Consultant + YouTube Educator
+* **YouTube:** https://www.youtube.com/@CrawlingMondaysbyAleyda
+* **LinkedIn:** https://www.linkedin.com/in/aleydasolis/
+* **Newsletter:** https://seofomo.co
+* **Website:** https://www.aleydasolis.com
+* **Why Selected:** Aleyda is the founder of Orainti, an active boutique
+  SEO consultancy serving global brands, making her a genuine practitioner
+  rather than just a content creator. As the host of Crawling Mondays and
+  curator of the SEOFOMO newsletter with 35,000+ subscribers, she
+  consistently publishes field-tested insights on AI search optimization
+  (GEO/AEO) drawn directly from real client work. She was awarded European
+  Search Personality of the Year in 2018 and remains one of the most
+  cited voices in the transition from traditional SEO to AI-driven search.
+* **Content Collected:**
+  * YouTube: "The AI Search Optimization Roadmap" (Sep 2025)
+  * YouTube: "Google AI Mode vs Traditional Search" (Jul 2025)
+  * YouTube: "SEO for LLMs - Adapting to the AI-first Web" (May 2025)
+* **Date Collected:** 2026-06-24
+
+---
+
