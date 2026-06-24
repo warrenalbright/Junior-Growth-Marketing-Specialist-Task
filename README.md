@@ -40,3 +40,27 @@ The repository clone completed successfully. Git was installed via winget (2.54.
 ---
 
 ## 4. Research Overview
+
+### Topic
+**AI-Powered SEO Content Production** — how practitioners are leveraging AI tools and workflows to produce, optimize, and scale SEO content in the context of B2B SaaS, with a focus on emerging disciplines such as Generative Engine Optimization (GEO) and Answer Engine Optimization (AEO).
+
+### Expert Selection Criteria
+Experts were selected based on:
+* Active content production (not just reputation or follower count)
+* Practitioner-level insight grounded in real client data or product experience
+* Specific focus on the AI × SEO intersection
+* Mix of established voices and emerging GEO/AEO specialists
+
+### Data Collection Method
+* **YouTube transcripts** — collected programmatically via the [Supadata API](https://supadata.ai) using a custom Python script (`fetch.py`)
+* **LinkedIn posts** — collected manually due to platform API restrictions; posts selected based on engagement and recency
+
+---
+
+## 5. Research Progress
+
+| Expert | YouTube | LinkedIn | Status |
+|--------|---------|----------|--------|
+| Ahrefs / Tim Soulo | ✅ 3 videos | ⬜ | Partial |
+| Aleyda Solis | ✅ 3 videos | ⬜ | Partial |
+| Koray Tuğberk GÜBÜR | ✅ 3 videos | ⬜ | Partial |
