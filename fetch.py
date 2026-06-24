@@ -2,8 +2,11 @@
 import requests
 import os
 import re
+from dotenv import load_dotenv
 
-SUPADATA_API_KEY = "sd_84103921b4fafaa68e174316d3858212"
+load_dotenv("API.env")
+
+SUPADATA_API_KEY = os.getenv("SUPADATA_API_KEY")
 
 videos = [
     # Ahrefs / Tim Soulo
@@ -44,11 +47,33 @@ videos = [
         "expert": "Aleyda Solis"
     },
     {
-        "id": "4YZ9SFWSK90",
-        "title": "Why Topic Clusters Matter More Than Ever in AI Search",
-        "filename": "03-Why-Topic-Clusters-Matter-More-Than-Ever-in-AI-Search",
-        "date": "2025-08-11",
+        "id": "T9d4GOCpBIE",
+        "title": "SEO for LLMs - Adapting to the AI-first Web",
+        "filename": "03-SEO-for-LLMs-Adapting-to-the-AI-first-Web",
+        "date": "2025-05-22",
         "expert": "Aleyda Solis"
+    },
+    # Koray Tuğberk GÜBÜR
+    {
+        "id": "mSHq_HxOyTA",
+        "title": "AI Agents, Semantic SEO and Fortune 500 Secrets - Full Interview",
+        "filename": "01-AI-Agents-Semantic-SEO-and-Fortune-500-Secrets",
+        "date": "2026-02-05",
+        "expert": "Koray Tugberk GUBUR"
+    },
+    {
+        "id": "5PAoIhyalsg",
+        "title": "Technical SEO and Semantic SEO Deep Dive",
+        "filename": "02-Technical-SEO-and-Semantic-SEO-Deep-Dive",
+        "date": "2024-11-04",
+        "expert": "Koray Tugberk GUBUR"
+    },
+    {
+        "id": "XlKMWAc0qvM",
+        "title": "Advanced SEO Tips 2025",
+        "filename": "03-Advanced-SEO-Tips-2025",
+        "date": "2025-03-08",
+        "expert": "Koray Tugberk GUBUR"
     },
 ]
 
@@ -115,7 +140,7 @@ def save_transcript(video, data):
 # Run
 print("Starting transcript fetch...\n")
 for video in videos:
-    if video["expert"] == "Ahrefs":
+    if video["expert"] in ["Ahrefs", "Aleyda Solis", "Koray Tugberk GUBUR"]:
         print(f"Skipping (already collected): {video['title']}")
         continue
     print(f"Fetching: {video['title']}...")
