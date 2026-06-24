@@ -75,6 +75,28 @@ videos = [
         "date": "2025-03-08",
         "expert": "Koray Tugberk GUBUR"
     },
+    # Kyle Roof - PageOptimizer Pro
+    {
+        "id": "CdfYQnE81sw",
+        "title": "He Tested 750 SEO Factors - Most of Them Don't Matter",
+        "filename": "01-He-Tested-750-SEO-Factors-Most-of-Them-Dont-Matter",
+        "date": "2025-07-23",
+        "expert": "Kyle Roof"
+    },
+    {
+        "id": "d6kCZvu4jPs",
+        "title": "Think SEO Is Dead - Here's Why It's Just Getting Started",
+        "filename": "02-Think-SEO-Is-Dead-Here's-Why-Its-Just-Getting-Started",
+        "date": "2025-07-03",
+        "expert": "Kyle Roof"
+    },
+    {
+        "id": "eWEx2lA6QOM",
+        "title": "Mastering On-Page SEO - Kyle Roof Shares The Secrets You're Missing",
+        "filename": "03-Mastering-On-Page-SEO-Kyle-Roof-Shares-The-Secrets-You're-Missing",
+        "date": "2025-08-26",
+        "expert": "Kyle Roof"
+    },
 ]
 
 def fetch_transcript(video_id):
@@ -140,7 +162,7 @@ def save_transcript(video, data):
 # Run
 print("Starting transcript fetch...\n")
 for video in videos:
-    if video["expert"] in ["Ahrefs", "Aleyda Solis", "Koray Tugberk GUBUR"]:
+    if video["expert"] in ["Ahrefs", "Aleyda Solis", "Koray Tugberk GUBUR", "Kyle Roof"]:
         print(f"Skipping (already collected): {video['title']}")
         continue
     print(f"Fetching: {video['title']}...")
