@@ -13,21 +13,21 @@ videos = [
     {
         "id": "QFnBD-4OQBk",
         "title": "How to Create High-Quality AI SEO Content That Ranks",
-        "filename": "01-How-to-Create-High-Quality-AI-SEO-Content-That-Ranks",
+        "filename": "01. How-to-Create-High-Quality-AI-SEO-Content-That-Ranks",
         "date": "2025-06-12",
         "expert": "Ahrefs"
     },
     {
         "id": "7XR60oB3BD8",
         "title": "Is SEO Actually Dead in 2025?",
-        "filename": "02-Is-SEO-Actually-Dead-in-2025",
+        "filename": "02. Is-SEO-Actually-Dead-in-2025",
         "date": "2025-02-28",
         "expert": "Ahrefs"
     },
     {
         "id": "MLKgbeDeCxU",
         "title": "What is AEO - AEO Course by Ahrefs",
-        "filename": "03-What-is-AEO-AEO-Course-by-Ahrefs",
+        "filename": "03. What-is-AEO-AEO-Course-by-Ahrefs",
         "date": "2026-04-29",
         "expert": "Ahrefs"
     },
@@ -35,21 +35,21 @@ videos = [
     {
         "id": "BjyF_4UhoOM",
         "title": "The AI Search Optimization Roadmap",
-        "filename": "01-The-AI-Search-Optimization-Roadmap",
+        "filename": "01. The-AI-Search-Optimization-Roadmap",
         "date": "2025-09-09",
         "expert": "Aleyda Solis"
     },
     {
         "id": "LGvbEHyX5oE",
         "title": "Google AI Mode vs Traditional Search",
-        "filename": "02-Google-AI-Mode-vs-Traditional-Search",
+        "filename": "02. Google-AI-Mode-vs-Traditional-Search",
         "date": "2025-07-01",
         "expert": "Aleyda Solis"
     },
     {
         "id": "T9d4GOCpBIE",
         "title": "SEO for LLMs - Adapting to the AI-first Web",
-        "filename": "03-SEO-for-LLMs-Adapting-to-the-AI-first-Web",
+        "filename": "03. SEO-for-LLMs-Adapting-to-the-AI-first-Web",
         "date": "2025-05-22",
         "expert": "Aleyda Solis"
     },
@@ -57,21 +57,21 @@ videos = [
     {
         "id": "mSHq_HxOyTA",
         "title": "AI Agents, Semantic SEO and Fortune 500 Secrets - Full Interview",
-        "filename": "01-AI-Agents-Semantic-SEO-and-Fortune-500-Secrets",
+        "filename": "01. AI-Agents-Semantic-SEO-and-Fortune-500-Secrets",
         "date": "2026-02-05",
         "expert": "Koray Tugberk GUBUR"
     },
     {
         "id": "5PAoIhyalsg",
         "title": "Technical SEO and Semantic SEO Deep Dive",
-        "filename": "02-Technical-SEO-and-Semantic-SEO-Deep-Dive",
+        "filename": "02. Technical-SEO-and-Semantic-SEO-Deep-Dive",
         "date": "2024-11-04",
         "expert": "Koray Tugberk GUBUR"
     },
     {
         "id": "XlKMWAc0qvM",
         "title": "Advanced SEO Tips 2025",
-        "filename": "03-Advanced-SEO-Tips-2025",
+        "filename": "03. Advanced-SEO-Tips-2025",
         "date": "2025-03-08",
         "expert": "Koray Tugberk GUBUR"
     },
@@ -79,21 +79,21 @@ videos = [
     {
         "id": "CdfYQnE81sw",
         "title": "He Tested 750 SEO Factors - Most of Them Don't Matter",
-        "filename": "01-He-Tested-750-SEO-Factors-Most-of-Them-Dont-Matter",
+        "filename": "01. He-Tested-750-SEO-Factors-Most-of-Them-Dont-Matter",
         "date": "2025-07-23",
         "expert": "Kyle Roof"
     },
     {
         "id": "d6kCZvu4jPs",
         "title": "Think SEO Is Dead - Here's Why It's Just Getting Started",
-        "filename": "02-Think-SEO-Is-Dead-Here's-Why-Its-Just-Getting-Started",
+        "filename": "02. Think-SEO-Is-Dead-Here's-Why-Its-Just-Getting-Started",
         "date": "2025-07-03",
         "expert": "Kyle Roof"
     },
     {
         "id": "eWEx2lA6QOM",
         "title": "Mastering On-Page SEO - Kyle Roof Shares The Secrets You're Missing",
-        "filename": "03-Mastering-On-Page-SEO-Kyle-Roof-Shares-The-Secrets-You're-Missing",
+        "filename": "03. Mastering-On-Page-SEO-Kyle-Roof-Shares-The-Secrets-You're-Missing",
         "date": "2025-08-26",
         "expert": "Kyle Roof"
     },
@@ -134,7 +134,7 @@ def save_transcript(video, data):
     date = video["date"]
     filename = video["filename"]
 
-    folder_name = expert.lower().replace(' ', '-')
+    folder_name = expert
     folder = f"research/youtube-transcripts/{folder_name}"
     os.makedirs(folder, exist_ok=True)
     filepath = f"{folder}/{filename}.md"
@@ -162,7 +162,7 @@ def save_transcript(video, data):
 # Run
 print("Starting transcript fetch...\n")
 for video in videos:
-    if video["expert"] in ["Ahrefs", "Aleyda Solis", "Koray Tugberk GUBUR", "Kyle Roof"]:
+    if video["expert"] in ["Ahrefs"]:
         print(f"Skipping (already collected): {video['title']}")
         continue
     print(f"Fetching: {video['title']}...")
