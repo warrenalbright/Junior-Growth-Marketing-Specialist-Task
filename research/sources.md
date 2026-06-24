@@ -45,3 +45,24 @@
 
 ---
 
+### 3. Koray Tuğberk GÜBÜR
+* **Type:** SEO Consultant + Independent Researcher
+* **YouTube:** https://www.youtube.com/@TopicalAuthority
+* **LinkedIn:** https://www.linkedin.com/in/koray-tugberk-gubur/
+* **Website:** https://www.holisticseo.digital
+* **Why Selected:** Koray is the CEO and founder of Holistic SEO & Digital,
+  an active consultancy where he runs regular SEO A/B tests across multiple
+  websites to reverse-engineer search engine algorithms. He is widely
+  regarded as the most technically rigorous voice in semantic SEO and
+  topical authority — disciplines that sit at the core of AI-powered content
+  production. Unlike most educators, his insights are derived from
+  documented case studies and data science methods applied to real client
+  projects, making him a true practitioner in the strictest sense.
+* **Content Collected:**
+  * YouTube: "AI Agents, Semantic SEO and Fortune 500 Secrets - Full Interview" (Feb 2026)
+  * YouTube: "Technical SEO and Semantic SEO Deep Dive" (Nov 2024)
+  * YouTube: "Advanced SEO Tips 2025" (Mar 2025)
+* **Date Collected:** 2026-06-24
+
+---
+
