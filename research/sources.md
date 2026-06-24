@@ -66,3 +66,26 @@
 
 ---
 
+### 4. Kyle Roof
+* **Type:** SEO Scientist + Tool Founder + Agency Owner
+* **YouTube:** https://www.youtube.com/@kyleroof
+* **LinkedIn:** https://www.linkedin.com/in/kyle-roof-411166a4/
+* **Website:** https://kyleroof.com
+* **Tool:** https://pageoptimizer.pro
+* **Why Selected:** Kyle Roof is the inventor of PageOptimizer Pro and
+  co-founder of High Voltage SEO and Internet Marketing Gold. What sets
+  him apart is his scientific approach — he has conducted over 750
+  controlled SEO tests and holds a US patent (No. 10,540,263 B1) for his
+  ranking factor testing methodology. Every insight he shares is backed
+  by documented experimental data from real websites, making him one of
+  the most rigorous practitioners in the industry. His recent work on
+  AI content production and LLM optimization directly supports this
+  research topic.
+* **Content Collected:**
+  * YouTube: "He Tested 750 SEO Factors - Most of Them Don't Matter" (Jul 2025)
+  * YouTube: "Think SEO Is Dead - Here's Why It's Just Getting Started" (Jul 2025)
+  * YouTube: "Mastering On-Page SEO - Kyle Roof Shares The Secrets You're Missing" (Aug 2025)
+* **Date Collected:** 2026-06-25
+
+---
+
