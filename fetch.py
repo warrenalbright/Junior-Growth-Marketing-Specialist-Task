@@ -97,6 +97,28 @@ videos = [
         "date": "2025-08-26",
         "expert": "Kyle Roof"
     },
+    # Michał Suski - Surfer SEO
+    {
+        "id": "x5CgYCRLgbc",
+        "title": "Product-Led SEO in AI Era with Eli Schwartz",
+        "filename": "01. Product-Led-SEO-in-AI-Era-with-Eli-Schwartz",
+        "date": "2026-04-28",
+        "expert": "Michal Suski"
+    },
+    {
+        "id": "OOepA6XL_-s",
+        "title": "Learn How to Optimize for AI Search - Live Surfer Demo",
+        "filename": "02. Learn-How-to-Optimize-for-AI-Search-Live-Surfer-Demo",
+        "date": "2025-10-29",
+        "expert": "Michal Suski"
+    },
+    {
+        "id": "tgiBcdDgDz8",
+        "title": "SEO 2024 and Beyond - Strategies, Google Updates, and Surfer's Newest Tools",
+        "filename": "03. SEO-2024-and-Beyond-Strategies-Google-Updates-and-Surfers-Newest-Tools",
+        "date": "2024-05-28",
+        "expert": "Michal Suski"
+    },
 ]
 
 def fetch_transcript(video_id):
@@ -162,7 +184,7 @@ def save_transcript(video, data):
 # Run
 print("Starting transcript fetch...\n")
 for video in videos:
-    if video["expert"] in ["Ahrefs"]:
+    if video["expert"] in ["Ahrefs","Aleyda Solis","Koray Tugberk GUBUR","Kyle Roof"]:
         print(f"Skipping (already collected): {video['title']}")
         continue
     print(f"Fetching: {video['title']}...")
