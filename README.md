@@ -64,3 +64,4 @@ Experts were selected based on:
 | Ahrefs / Tim Soulo | ✅ 3 videos | ⬜ | Partial |
 | Aleyda Solis | ✅ 3 videos | ⬜ | Partial |
 | Koray Tuğberk GÜBÜR | ✅ 3 videos | ⬜ | Partial |
+| Kyle Roof | ✅ 3 videos | ⬜ | Partial |
