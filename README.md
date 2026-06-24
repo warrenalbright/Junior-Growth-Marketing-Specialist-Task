@@ -36,3 +36,7 @@ The repository is cloned into your workspace.
 Note: Git was not installed on your system, so it was installed first via winget (Git 2.54.0), then the clone was run.
 
 The repository clone completed successfully. Git was installed via winget (2.54.0) because it wasn’t available on your system, then the repo was cloned into your workspace on main at commit 92ad1a9.
+
+---
+
+## 4. Research Overview
