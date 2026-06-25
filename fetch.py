@@ -75,27 +75,27 @@ videos = [
         "date": "2025-03-08",
         "expert": "Koray Tugberk GUBUR"
     },
-    # Kyle Roof - PageOptimizer Pro
+    # Jono Alderson
     {
-        "id": "CdfYQnE81sw",
-        "title": "He Tested 750 SEO Factors - Most of Them Don't Matter",
-        "filename": "01. He-Tested-750-SEO-Factors-Most-of-Them-Dont-Matter",
-        "date": "2025-07-23",
-        "expert": "Kyle Roof"
+        "id": "As00Ghb0Fbw",
+        "title": "Content Marketing Is Dead - Long Live Brand - Jono Alderson on SEO's Future",
+        "filename": "01. Content-Marketing-Is-Dead-Long-Live-Brand-Jono-Alderson-on-SEOs-Future",
+        "date": "2025-04-22",
+        "expert": "Jono Alderson"
     },
     {
-        "id": "d6kCZvu4jPs",
-        "title": "Think SEO Is Dead - Here's Why It's Just Getting Started",
-        "filename": "02. Think-SEO-Is-Dead-Here's-Why-Its-Just-Getting-Started",
-        "date": "2025-07-03",
-        "expert": "Kyle Roof"
+        "id": "avASDgtw9k0",
+        "title": "Stop Assuming That Producing Content is a Necessary Component of Modern SEO",
+        "filename": "02. Stop-Assuming-That-Producing-Content-is-a-Necessary-Component-of-Modern-SEO",
+        "date": "2025-03-17",
+        "expert": "Jono Alderson"
     },
     {
-        "id": "eWEx2lA6QOM",
-        "title": "Mastering On-Page SEO - Kyle Roof Shares The Secrets You're Missing",
-        "filename": "03. Mastering-On-Page-SEO-Kyle-Roof-Shares-The-Secrets-You're-Missing",
-        "date": "2025-08-26",
-        "expert": "Kyle Roof"
+        "id": "lR4IhqTtM6A",
+        "title": "SEO Strategy and Tips for 2025 - NitroPack Webinar with Jono Alderson",
+        "filename": "03. SEO-Strategy-and-Tips-for-2025-NitroPack-Webinar-with-Jono-Alderson",
+        "date": "2024-10-31",
+        "expert": "Jono Alderson"
     },
     # Michał Suski - Surfer SEO
     {
