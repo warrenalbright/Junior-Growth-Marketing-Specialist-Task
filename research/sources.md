@@ -66,25 +66,24 @@
 
 ---
 
-### 4. Kyle Roof
-* **Type:** SEO Scientist + Tool Founder + Agency Owner
-* **YouTube:** https://www.youtube.com/@kyleroof
-* **LinkedIn:** https://www.linkedin.com/in/kyle-roof-411166a4/
-* **Website:** https://kyleroof.com
-* **Tool:** https://pageoptimizer.pro
-* **Why Selected:** Kyle Roof is the inventor of PageOptimizer Pro and
-  co-founder of High Voltage SEO and Internet Marketing Gold. What sets
-  him apart is his scientific approach — he has conducted over 750
-  controlled SEO tests and holds a US patent (No. 10,540,263 B1) for his
-  ranking factor testing methodology. Every insight he shares is backed
-  by documented experimental data from real websites, making him one of
-  the most rigorous practitioners in the industry. His recent work on
-  AI content production and LLM optimization directly supports this
-  research topic.
+### 4. Jono Alderson
+* **Type:** Independent Technical SEO Consultant + Speaker
+* **YouTube:** https://www.youtube.com/@jonoalderson
+* **LinkedIn:** https://www.linkedin.com/in/jonoalderson/
+* **Website:** https://jonoalderson.com
+* **Why Selected:** Jono Alderson is an independent technical SEO
+  consultant and former Head of SEO at Yoast, where he led product
+  strategy and R&D for one of the world's most widely used SEO
+  platforms. He is one of the most analytically rigorous voices on
+  the future of SEO in the AI era — consistently challenging
+  assumptions about content production, brand visibility, and what
+  it means to "optimize" in a world where AI systems increasingly
+  mediate search. His provocative takes are grounded in 20+ years
+  of hands-on consultancy work with enterprise brands globally.
 * **Content Collected:**
-  * YouTube: "He Tested 750 SEO Factors - Most of Them Don't Matter" (Jul 2025)
-  * YouTube: "Think SEO Is Dead - Here's Why It's Just Getting Started" (Jul 2025)
-  * YouTube: "Mastering On-Page SEO - Kyle Roof Shares The Secrets You're Missing" (Aug 2025)
+  * YouTube: "Content Marketing Is Dead - Long Live Brand" (Apr 2025)
+  * YouTube: "Stop Assuming That Producing Content is a Necessary Component of Modern SEO" (Mar 2025)
+  * YouTube: "SEO Strategy and Tips for 2025 - NitroPack Webinar" (Oct 2024)
 * **Date Collected:** 2026-06-25
 
 ---
