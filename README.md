@@ -67,3 +67,4 @@ Experts were selected based on:
 | Kyle Roof | ✅ 3 videos | ⬜ | Partial |
 | Michał Suski (Surfer SEO) | ✅ 3 videos | ⬜ | Partial |
 | Kevin Indig | ✅ 3 videos | ⬜ | Partial |
+| Lily Ray | ✅ 3 videos | ⬜ | Partial |
