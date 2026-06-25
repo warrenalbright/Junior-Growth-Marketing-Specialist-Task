@@ -1,13 +1,15 @@
-# LinkedIn Posts — [Nama Expert]
+# LinkedIn Posts — Kyle Roof
 
 ---
 
 ## Post 1
-- **Date:** YYYY-MM-DD
-- **Likes:** XXX
-- **URL:** https://linkedin.com/posts/...
+- **Date:** 
+- **Likes:**
+- **Comment:** 
+- **Reposts:**  
+- **URL:** 
 
-[isi post — copy paste teks lengkapnya]
+
 
 ---
 
