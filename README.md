@@ -70,3 +70,4 @@ Experts were selected based on:
 | Lily Ray | ✅ 3 videos | ⬜ | Partial |
 | Ben Goodey | ✅ 3 videos | ⬜ | Partial |
 | Ryan Law (Ahrefs) | ✅ 3 videos | ⬜ | Partial |
+| James Dooley | ✅ 3 videos | ⬜ | Partial |
