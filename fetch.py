@@ -163,6 +163,28 @@ videos = [
         "date": "2026-05-13",
         "expert": "Lily Ray"
     },
+    # Ben Goodey - Spicy Margarita
+    {
+        "id": "Z4pdquy2Opg",
+        "title": "SEO Strategies That Make Money",
+        "filename": "01. SEO-Strategies-That-Make-Money",
+        "date": "2025-11-24",
+        "expert": "Ben Goodey"
+    },
+    {
+        "id": "_m6Kc6_4WYE",
+        "title": "Agency Building and SEO with Ben Goodey",
+        "filename": "02. Agency-Building-and-SEO-with-Ben-Goodey",
+        "date": "2025-06-06",
+        "expert": "Ben Goodey"
+    },
+    {
+        "id": "-biKd8XOVk4",
+        "title": "Successful SEO Programs - The SaaS SEO Show",
+        "filename": "03. Successful-SEO-Programs-The-SaaS-SEO-Show",
+        "date": "2023-11-09",
+        "expert": "Ben Goodey"
+    },
 ]
 
 def fetch_transcript(video_id):
@@ -228,7 +250,7 @@ def save_transcript(video, data):
 # Run
 print("Starting transcript fetch...\n")
 for video in videos:
-    if video["expert"] in ["Ahrefs","Aleyda Solis","Koray Tugberk GUBUR","Kyle Roof","Michal Suski","Kevin Indig","Lily Ray"]:
+    if video["expert"] in ["Ahrefs","Aleyda Solis","Koray Tugberk GUBUR","Kyle Roof","Michal Suski","Kevin Indig","Lily Ray","Ben Goodey"]:
         print(f"Skipping (already collected): {video['title']}")
         continue
     print(f"Fetching: {video['title']}...")
