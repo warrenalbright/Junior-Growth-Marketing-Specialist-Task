@@ -4,7 +4,7 @@
 
 ## Article 1: Key Traditional vs AI Search Differences - A Visual Comparison
 - **URL:** https://www.aleydasolis.com/en/ai-search/key-traditional-search-ai-comparison/
-- **Date Published:** 26 July 2025
+- **Date Published:** July 26, 2025
 - **Type:** Blog Article with Visual Infographic
 
 ### Summary
