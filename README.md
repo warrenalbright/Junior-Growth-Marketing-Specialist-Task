@@ -62,12 +62,12 @@ Experts were selected based on:
 | Expert | YouTube | LinkedIn | Status |
 |--------|---------|----------|--------|
 | Ahrefs / Tim Soulo | ✅ 3 videos | ⬜ | Partial |
-| Aleyda Solis | ✅ 3 videos | ⬜ | Partial |
+| Aleyda Solis | ✅ 3 videos | ✅ 3 posts, 3 other resources | *Complete* |
 | Koray Tuğberk GÜBÜR | ✅ 3 videos | ⬜ | Partial |
 | Kyle Roof | ✅ 3 videos | ⬜ | Partial |
 | Michał Suski | ✅ 3 videos | ⬜ | Partial |
-| Kevin Indig | ✅ 3 videos | ⬜ | Partial |
-| Lily Ray | ✅ 3 videos | ⬜ | Partial |
+| Kevin Indig | ✅ 3 videos | | ✅ 3 posts | *Complete* |
+| Lily Ray | ✅ 3 videos | ✅ 3 posts | *Complete* |
 | Ben Goodey | ✅ 3 videos | ⬜ | Partial |
 | Ryan Law (Ahrefs) | ✅ 3 videos | ⬜ | Partial |
 | James Dooley | ✅ 3 videos | ⬜ | Partial |
