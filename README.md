@@ -66,3 +66,4 @@ Experts were selected based on:
 | Koray Tuğberk GÜBÜR | ✅ 3 videos | ⬜ | Partial |
 | Kyle Roof | ✅ 3 videos | ⬜ | Partial |
 | Michał Suski (Surfer SEO) | ✅ 3 videos | ⬜ | Partial |
+| Kevin Indig | ✅ 3 videos | ⬜ | Partial |
