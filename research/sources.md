@@ -154,3 +154,24 @@
 
 ---
 
+### 8. Ben Goodey (Spicy Margarita)
+* **Type:** SEO Agency Founder + GEO Educator
+* **YouTube:** https://www.youtube.com/@howthefxck
+* **LinkedIn:** https://www.linkedin.com/in/bengoodey/
+* **Website:** https://spicymargarita.com
+* **Why Selected:** Ben Goodey is the founder of Spicy Margarita, a
+  B2B SEO and GEO agency serving Series A and B tech startups. He is
+  widely recognized as one of the leading educators in the GEO space,
+  consistently sharing field-tested experiments and strategy breakdowns
+  with thousands of marketers on LinkedIn. His agency specializes in
+  bottom-of-funnel SEO and GEO strategies designed to drive measurable
+  revenue — not just traffic — making him a strong practitioner voice
+  for this research topic.
+* **Content Collected:**
+  * YouTube: "SEO Strategies That Make Money" (Nov 2025)
+  * YouTube: "Agency Building and SEO with Ben Goodey" (Jun 2025)
+  * YouTube: "Successful SEO Programs - The SaaS SEO Show" (Nov 2023)
+* **Date Collected:** 2026-06-25
+
+---
+
