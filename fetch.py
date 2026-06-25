@@ -203,7 +203,7 @@ videos = [
     {
         "id": "D7LBx8RFOcQ",
         "title": "AI Writing at Scale: Ahrefs Step-by-Step Workflow | Ryan Law (Ahrefs)",
-        "filename": "03. AI-Writing-at-Scale:-Ahrefs-Step-by-Step-Workflow-|-Ryan-Law-(Ahrefs)",
+        "filename": "03. AI-Writing-at-Scale-Ahrefs-Step-by-Step-Workflow-Ryan-Law",
         "date": "2025-08-05",
         "expert": "Ryan Law"
     },
