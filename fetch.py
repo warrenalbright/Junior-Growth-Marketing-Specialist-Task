@@ -69,10 +69,10 @@ videos = [
         "expert": "Koray Tugberk GUBUR"
     },
     {
-        "id": "XlKMWAc0qvM",
-        "title": "Advanced SEO Tips 2025",
-        "filename": "03. Advanced-SEO-Tips-2025",
-        "date": "2025-03-08",
+        "id": "EFPVohRjAgs",
+        "title": "Chat With Koray Tugberk Gubur - AI and the Evolution of SEO in 2026",
+        "filename": "03. Chat-With-Koray-Tugberk-Gubur-AI-and-the-Evolution-of-SEO-in-2026",
+        "date": "2026-03-16",
         "expert": "Koray Tugberk GUBUR"
     },
     # Jono Alderson
@@ -294,7 +294,7 @@ def save_transcript(video, data):
 # Run
 print("Starting transcript fetch...\n")
 for video in videos:
-    if video["expert"] in ["Ahrefs","Aleyda Solis","Koray Tugberk GUBUR","Kyle Roof","Michal Suski","Kevin Indig","Lily Ray","Ben Goodey","Ryan Law","James Dooley"]:
+    if video["expert"] in ["Ahrefs","Aleyda Solis","Michal Suski","Kevin Indig","Lily Ray","Ben Goodey","Ryan Law","James Dooley","Jono Alderson"]:
         print(f"Skipping (already collected): {video['title']}")
         continue
     print(f"Fetching: {video['title']}...")
