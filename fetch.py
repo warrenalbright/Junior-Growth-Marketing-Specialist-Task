@@ -185,6 +185,28 @@ videos = [
         "date": "2023-11-09",
         "expert": "Ben Goodey"
     },
+    # Ryan Law - Ahrefs
+    {
+        "id": "iVZrVeESnFQ",
+        "title": "How to Automate Blog Writing with AI from Keyword to Published",
+        "filename": "01. How-to-Automate-Blog-Writing-with-AI-from-Keyword-to-Published",
+        "date": "2026-04-28",
+        "expert": "Ryan Law"
+    },
+    {
+        "id": "mL1W1SMtTT4",
+        "title": "How to Win in AI Search - Real Data No Hype",
+        "filename": "02. How-to-Win-in-AI-Search-Real-Data-No-Hype",
+        "date": "2025-10-28",
+        "expert": "Ryan Law"
+    },
+    {
+        "id": "D7LBx8RFOcQ",
+        "title": "AI Writing at Scale: Ahrefs Step-by-Step Workflow | Ryan Law (Ahrefs)",
+        "filename": "03. AI-Writing-at-Scale:-Ahrefs-Step-by-Step-Workflow-|-Ryan-Law-(Ahrefs)",
+        "date": "2025-08-05",
+        "expert": "Ryan Law"
+    },
 ]
 
 def fetch_transcript(video_id):
@@ -250,7 +272,7 @@ def save_transcript(video, data):
 # Run
 print("Starting transcript fetch...\n")
 for video in videos:
-    if video["expert"] in ["Ahrefs","Aleyda Solis","Koray Tugberk GUBUR","Kyle Roof","Michal Suski","Kevin Indig","Lily Ray","Ben Goodey"]:
+    if video["expert"] in ["Ahrefs","Aleyda Solis","Koray Tugberk GUBUR","Kyle Roof","Michal Suski","Kevin Indig","Lily Ray","Ben Goodey","Ryan Law"]:
         print(f"Skipping (already collected): {video['title']}")
         continue
     print(f"Fetching: {video['title']}...")
