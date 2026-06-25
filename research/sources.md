@@ -196,3 +196,21 @@
 
 ---
 
+### 10. James Dooley
+* **Type:** SEO Entrepreneur + AI SEO Practitioner
+* **YouTube:** https://www.youtube.com/@JamesDooley
+* **LinkedIn:** https://www.linkedin.com/in/jdooley/
+* **Website:** https://fatrank.com
+* **Why Selected:** James Dooley is the CEO of PromoSEO and founder of
+  FatRank, with a track record of building hundreds of successful
+  rank-and-rent websites. He has been voted Best SEO in the World and
+  Best AI Mentor for UK Businesses. Unlike theorists, his insights come
+  directly from running active SEO operations at scale — making him a
+  true practitioner. His 2025–2026 YouTube content focuses heavily on
+  AI SEO strategies, featuring in-depth interviews with leading SEO
+  practitioners on the cutting edge of AI search optimization.
+* **Content Collected:**
+  * YouTube: "AI SEO Strategies 2026" (May 2026)
+  * YouTube: "The Future of AI SEO - Futuristic Ideas of SEO and AI" (Jan 2026)
+  * YouTube: "AI SEO Tips and Tricks" (Feb 2026)
+* **Date Collected:** 2026-06-25
