@@ -110,3 +110,25 @@
 
 ---
 
+### 6. Kevin Indig
+* **Type:** Independent Growth Advisor + Newsletter Author
+* **YouTube:** https://www.youtube.com/@kevinindig
+* **LinkedIn:** https://www.linkedin.com/in/kevinindig/
+* **Newsletter:** https://www.kevin-indig.com/newsletter/
+* **Website:** https://www.kevin-indig.com
+* **Why Selected:** Kevin Indig is a growth advisor who previously led
+  SEO and Growth at Shopify, G2, and Atlassian — three of the most
+  demanding SEO environments in B2B SaaS. He now advises the
+  world's fastest-growing companies on AI visibility and organic growth
+  strategy. His newsletter Growth Memo is one of the most cited
+  resources on the intersection of AI and SEO, grounded in operator
+  experience rather than theory. His analysis of 1.2M AI citations
+  has become a reference point for practitioners building GEO strategies.
+* **Content Collected:**
+  * YouTube: "The Great Decoupling - SEO Attribution and AI-Driven Growth Strategies" (Apr 2026)
+  * YouTube: "Preparing for Organic Growth in 2025" (Dec 2024)
+  * YouTube: "SEO in 2025 - Automate, Adapt, and Grow" (Nov 2024)
+* **Date Collected:** 2026-06-25
+
+---
+
