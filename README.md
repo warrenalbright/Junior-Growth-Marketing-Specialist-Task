@@ -1,4 +1,4 @@
-# Junior-Growth-Marketing-Specialist-Task - First Test
+# Junior-Growth-Marketing-Specialist-Task
 
 ## 1. Tools Installed
 In the initial phase of this assessment, I set up and configured the essential environment required:
@@ -11,11 +11,20 @@ In the initial phase of this assessment, I set up and configured the essential e
 
 ## 2. Steps Completed
 The following steps were executed during this test:
+### First Test
 1. Downloaded and installed the latest version of **Cursor** directly from the official website via my standard browser (Google Chrome).
 2. Initialized the application, completed the onboarding/login process, and navigated to the Extensions marketplace to install **Claude Code** and **Codex** extensions.
 3. Created a new public GitHub repository via the web, named `Junior-Growth-Marketing-Specialist-Task`.
 4. Cloned the repository to my local computer and opened the workspace in Cursor.
 5. Generated the `README.md` file to document the technical steps, challenges encountered, and solutions applied.
+
+### Second Test — AI-Powered SEO Content Production Research
+1. Created the research folder structure: `/research/sources.md`, `/research/youtube-transcripts/`, `/research/linkedin-posts/`, `/research/other/`.
+2. Selected **AI-Powered SEO Content Production** as the research topic, focusing on high-signal practitioners in the SEO and GEO/AEO space.
+3. Developed a Python script (`fetch.py`) to collect YouTube transcripts programmatically via the **Supadata API**, including UTF-8 encoding handling and automated paragraph formatting.
+4. Identified and curated 10 expert sources based on practitioner-level insight, active content production, and relevance to AI-driven SEO workflows.
+5. Collected YouTube transcripts (30 videos total) and LinkedIn posts per expert, organized by author within the repository structure.
+6. Supplemented YouTube and LinkedIn data with blog articles, research studies, and interview sources stored in `/research/other/`.
 
 ---
 
@@ -37,6 +46,15 @@ Note: Git was not installed on your system, so it was installed first via winget
 
 The repository clone completed successfully. Git was installed via winget (2.54.0) because it wasn’t available on your system, then the repo was cloned into your workspace on main at commit 92ad1a9.
 ```
+
+### Issue 3: Python App Execution Aliases (Windows)
+* **Problem**: Running `python fetch.py` returned an error prompting installation from the Microsoft Store, despite Python 3.11 already being installed on the system.
+* **Solution**: Disabled the Python App Execution Aliases via **Settings > Apps > Advanced app settings > App execution aliases**, which resolved the conflict and allowed Python to run correctly from the terminal.
+
+### Issue 4: Script Encoding Error (UnicodeDecodeError)
+* **Problem**: Running `fetch.py` produced a `UnicodeDecodeError` due to Windows defaulting to `cp1252` encoding, causing the script to fail silently on certain characters.
+* **Solution**: Added `# -*- coding: utf-8 -*-` at the top of `fetch.py` to explicitly declare UTF-8 encoding, which resolved the issue immediately and allowed all transcripts to be fetched correctly.
+
 ---
 
 ## 4. Research Overview
@@ -51,6 +69,25 @@ Experts were selected based on:
 * Specific focus on the AI × SEO intersection
 * Mix of established voices and emerging GEO/AEO specialists
 
+### Why These Experts
+
+The 10 experts were selected to represent a deliberate mix of perspectives
+across the AI-powered SEO content production landscape:
+
+* **Tool builders** who ship the platforms practitioners use daily —
+  Tim Soulo (Ahrefs), Michał Suski (Surfer SEO)
+* **Independent consultants** with active client work —
+  Aleyda Solis (Orainti, SEOFOMO), Jono Alderson (SEO Consultant & Meta), Koray Tuğberk GÜBÜR (Holistic SEO)
+* **Agency founders** with documented B2B SaaS results —
+  Ben Goodey (Spicy Margarita), James Dooley (PromoSEO & FatRank)
+* **Content strategists** embedded in leading SEO platforms —
+  Ryan Law (Ahrefs), Kevin Indig (Advisor)
+* **Algorithm researchers** with enterprise-level data —
+  Lily Ray (Amsive)
+
+Each expert was verified to actively produce content grounded in real
+client data, original research, or product experience — not just theory.
+
 ### Data Collection Method
 * **YouTube transcripts** — collected programmatically via the [Supadata API](https://supadata.ai) using a custom Python script (`fetch.py`)
 * **LinkedIn posts** — collected manually due to platform API restrictions; posts selected based on engagement and recency
@@ -59,17 +96,17 @@ Experts were selected based on:
 
 ## 5. Research Progress
 
-| Expert | YouTube | LinkedIn | Status |
-|--------|---------|----------|--------|
-| Tim Soulo (Ahrefs) | ✅ 3 videos | ✅ 1 post + 3 other resources | *Completed* |
-| Aleyda Solis | ✅ 3 videos | ✅ 3 posts + 3 other resources | *Completed* |
-| Koray Tuğberk GÜBÜR | ✅ 3 videos | ✅ 3 posts + 3 other resources | *Completed* |
-| Jono Alderson | ✅ 3 videos | ✅ 3 posts + 3 other resources | *Completed* |
-| Michał Suski | ✅ 3 videos | ✅ 1 post + 2 other resources | *Completed* |
-| Kevin Indig | ✅ 3 videos | ✅ 3 posts | *Completed* |
-| Lily Ray | ✅ 3 videos | ✅ 3 posts | *Completed* |
-| Ben Goodey | ✅ 3 videos | ✅ 3 posts + 1 other resource | *Completed* |
-| Ryan Law (Ahrefs) | ✅ 3 videos | ✅ 2 posts + 2 other resources | *Completed* |
-| James Dooley | ✅ 3 videos | ✅ 1 post + 1 other resource | *Completed* |
+| Expert | YouTube | LinkedIn | Other | Status |
+|--------|---------|----------|-------|--------|
+| Tim Soulo | ✅ 3 videos | ✅ 1 post | ✅ 3 resources | *Completed* |
+| Aleyda Solis | ✅ 3 videos | ✅ 3 posts | ✅ 3 resources | *Completed* |
+| Koray Tuğberk GÜBÜR | ✅ 3 videos | ✅ 3 posts | ✅ 2 resources | *Completed* |
+| Jono Alderson | ✅ 3 videos | ✅ 3 posts | ✅ 3 resources | *Completed* |
+| Michał Suski | ✅ 3 videos | ✅ 1 post | ✅ 2 resources | *Completed* |
+| Kevin Indig | ✅ 3 videos | ✅ 3 posts | — | *Completed* |
+| Lily Ray | ✅ 3 videos | ✅ 3 posts | — | *Completed* |
+| Ben Goodey | ✅ 3 videos | ✅ 3 posts | ✅ 1 resource | *Completed* |
+| Ryan Law | ✅ 3 videos | ✅ 2 posts | ✅ 2 resources | *Completed* |
+| James Dooley | ✅ 3 videos | ✅ 1 post | ✅ 1 resource | *Completed* |
 
 ---
