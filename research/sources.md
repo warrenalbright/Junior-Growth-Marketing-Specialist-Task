@@ -89,3 +89,24 @@
 
 ---
 
+### 5. Michał Suski (Surfer SEO)
+* **Type:** SaaS Co-Founder + AI SEO Practitioner
+* **YouTube:** https://www.youtube.com/@SurferSEO
+* **LinkedIn:** https://www.linkedin.com/in/michalsuski/
+* **Website:** https://surferseo.com
+* **Why Selected:** Michał Suski is the co-founder of Surfer SEO, one of
+  the most widely adopted AI-powered content optimization platforms used
+  by thousands of SEO teams globally. Unlike theorists, he builds and
+  ships the actual tools that practitioners use daily — giving him a
+  uniquely grounded perspective on AI content production workflows. His
+  content consistently bridges product development with real-world SEO
+  application, covering AI search optimization, content scoring, and the
+  evolving role of LLMs in organic growth strategy.
+* **Content Collected:**
+  * YouTube: "Product-Led SEO in AI Era with Eli Schwartz" (Apr 2026)
+  * YouTube: "Learn How to Optimize for AI Search - Live Surfer Demo" (Oct 2025)
+  * YouTube: "SEO 2024 and Beyond - Strategies, Google Updates, and Surfer's Newest Tools" (May 2024)
+* **Date Collected:** 2026-06-25
+
+---
+
