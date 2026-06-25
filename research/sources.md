@@ -175,3 +175,24 @@
 
 ---
 
+### 9. Ryan Law (Ahrefs)
+* **Type:** CMO at Ahrefs + AI Content Strategist
+* **YouTube:** https://www.youtube.com/@ahrefs
+* **LinkedIn:** https://www.linkedin.com/in/ryanlaw1/
+* **Website:** https://ahrefs.com/blog/author/ryan-law/
+* **Why Selected:** Ryan Law is CMO at Ahrefs and formerly VP of Content
+  at Animalz, where he built content programs for companies including
+  Google, Clearbit, and Wistia. He is one of the most credible voices
+  on AI-powered content production — not as a theorist, but as someone
+  who has built and shipped AI content workflows at scale. His 2026
+  work on automating blog writing with AI from keyword to published
+  article is a direct practitioner-level contribution to this research
+  topic.
+* **Content Collected:**
+  * YouTube: "How to Automate Blog Writing with AI from Keyword to Published" (Apr 2026)
+  * YouTube: "How to Win in AI Search - Real Data No Hype" (Oct 2025)
+  * YouTube: "How AI is a Revolution for Content Marketing" (2024)
+* **Date Collected:** 2026-06-25
+
+---
+
