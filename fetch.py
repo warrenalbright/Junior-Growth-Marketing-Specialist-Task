@@ -207,6 +207,28 @@ videos = [
         "date": "2025-08-05",
         "expert": "Ryan Law"
     },
+    # James Dooley - FatRank / PromoSEO
+    {
+        "id": "Zjfc_2onecU",
+        "title": "AI SEO Strategies 2026",
+        "filename": "01. AI-SEO-Strategies-2026",
+        "date": "2026-05-07",
+        "expert": "James Dooley"
+    },
+    {
+        "id": "N9Exj3hY8YA",
+        "title": "The Future of AI SEO - Futuristic Ideas of SEO and AI",
+        "filename": "02. The-Future-of-AI-SEO-Futuristic-Ideas-of-SEO-and-AI",
+        "date": "2026-01-28",
+        "expert": "James Dooley"
+    },
+    {
+        "id": "pCivBfsJYyY",
+        "title": "AI SEO Tips and Tricks",
+        "filename": "03. AI-SEO-Tips-and-Tricks",
+        "date": "2026-02-13",
+        "expert": "James Dooley"
+    },
 ]
 
 def fetch_transcript(video_id):
@@ -272,7 +294,7 @@ def save_transcript(video, data):
 # Run
 print("Starting transcript fetch...\n")
 for video in videos:
-    if video["expert"] in ["Ahrefs","Aleyda Solis","Koray Tugberk GUBUR","Kyle Roof","Michal Suski","Kevin Indig","Lily Ray","Ben Goodey","Ryan Law"]:
+    if video["expert"] in ["Ahrefs","Aleyda Solis","Koray Tugberk GUBUR","Kyle Roof","Michal Suski","Kevin Indig","Lily Ray","Ben Goodey","Ryan Law","James Dooley"]:
         print(f"Skipping (already collected): {video['title']}")
         continue
     print(f"Fetching: {video['title']}...")
