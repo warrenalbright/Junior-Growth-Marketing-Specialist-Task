@@ -64,7 +64,7 @@ Experts were selected based on:
 | Tim Soulo (Ahrefs) | ✅ 3 videos | ✅ 1 post + 3 other resources | *Complete* |
 | Aleyda Solis | ✅ 3 videos | ✅ 3 posts + 3 other resources | *Complete* |
 | Koray Tuğberk GÜBÜR | ✅ 3 videos | ⬜ | Partial |
-| Kyle Roof | ✅ 3 videos | ⬜ | Partial |
+| Jono Alderson | ✅ 3 videos | ⬜ | Partial |
 | Michał Suski | ✅ 3 videos | ✅ 1 post + 2 other resources | *Complete* |
 | Kevin Indig | ✅ 3 videos | ✅ 3 posts | *Complete* |
 | Lily Ray | ✅ 3 videos | ✅ 3 posts | *Complete* |
