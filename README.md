@@ -65,3 +65,4 @@ Experts were selected based on:
 | Aleyda Solis | ✅ 3 videos | ⬜ | Partial |
 | Koray Tuğberk GÜBÜR | ✅ 3 videos | ⬜ | Partial |
 | Kyle Roof | ✅ 3 videos | ⬜ | Partial |
+| Michał Suski (Surfer SEO) | ✅ 3 videos | ⬜ | Partial |
