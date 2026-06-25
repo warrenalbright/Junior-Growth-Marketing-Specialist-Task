@@ -69,3 +69,4 @@ Experts were selected based on:
 | Kevin Indig | ✅ 3 videos | ⬜ | Partial |
 | Lily Ray | ✅ 3 videos | ⬜ | Partial |
 | Ben Goodey | ✅ 3 videos | ⬜ | Partial |
+| Ryan Law (Ahrefs) | ✅ 3 videos | ⬜ | Partial |
