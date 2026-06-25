@@ -132,3 +132,25 @@
 
 ---
 
+### 7. Lily Ray
+* **Type:** VP SEO Strategy & Research + Independent Researcher
+* **YouTube:** https://www.youtube.com/@lilyraySEO
+* **LinkedIn:** https://www.linkedin.com/in/lily-ray-44755615/
+* **Substack:** https://lilyray.substack.com
+* **Website:** https://lilyray.nyc
+* **Why Selected:** Lily Ray is VP of SEO Strategy & Research at Amsive,
+  where she leads research into Google algorithm updates and AI search
+  behavior at scale. She is one of the most analytically rigorous voices
+  on GEO, AEO, and LLMO — consistently separating data-backed findings
+  from industry hype. Her MozCon 2025 presentation on GEO/AEO/LLMO is
+  widely regarded as one of the clearest frameworks for understanding
+  AI search optimization. Unlike many commentators, her insights are
+  grounded in enterprise-level client data and original research.
+* **Content Collected:**
+  * YouTube: "GEO, AEO, LLMO - Separating Fact from Fiction and How to Win in AI Search" (Nov 2025)
+  * YouTube: "The Future of SEO - Google Updates, AI Search and GEO Spam" (Mar 2026)
+  * YouTube: "Lily Ray on AI Slop, GEO, and What Actually Works" (May 2026)
+* **Date Collected:** 2026-06-25
+
+---
+
