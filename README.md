@@ -63,7 +63,7 @@ Experts were selected based on:
 |--------|---------|----------|--------|
 | Tim Soulo (Ahrefs) | ✅ 3 videos | ✅ 1 post + 3 other resources | *Completed* |
 | Aleyda Solis | ✅ 3 videos | ✅ 3 posts + 3 other resources | *Completed* |
-| Koray Tuğberk GÜBÜR | ✅ 3 videos | ⬜ | Partial |
+| Koray Tuğberk GÜBÜR | ✅ 3 videos | ✅ 3 posts + 3 other resources | *Completed* |
 | Jono Alderson | ✅ 3 videos | ✅ 3 posts + 3 other resources | *Completed* |
 | Michał Suski | ✅ 3 videos | ✅ 1 post + 2 other resources | *Completed* |
 | Kevin Indig | ✅ 3 videos | ✅ 3 posts | *Completed* |
@@ -71,3 +71,5 @@ Experts were selected based on:
 | Ben Goodey | ✅ 3 videos | ✅ 3 posts + 1 other resource | *Completed* |
 | Ryan Law (Ahrefs) | ✅ 3 videos | ✅ 2 posts + 2 other resources | *Completed* |
 | James Dooley | ✅ 3 videos | ✅ 1 post + 1 other resource | *Completed* |
+
+---
