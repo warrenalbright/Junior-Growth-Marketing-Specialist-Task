@@ -4,8 +4,8 @@
 
 ---
 
-### 1. Ahrefs (Tim Soulo, CMO)
-* **Type:** SaaS company channel + CMO thought leadership
+### 1. Tim Soulo (Ahrefs)
+* **Type:** Tool Builder + CMO Thought Leadership
 * **YouTube:** https://www.youtube.com/@ahrefs
 * **LinkedIn:** https://www.linkedin.com/in/timsoulo/
 * **Blog:** https://ahrefs.com/blog
@@ -19,11 +19,13 @@
   * YouTube: "How to Create High-Quality AI SEO Content That Ranks" (Jun 2025)
   * YouTube: "Is SEO Actually Dead in 2025?" (Feb 2025)
   * YouTube: "What is AEO – AEO Course by Ahrefs" (Apr 2026)
+  * LinkedIn: 1 post → `/research/linkedin-posts/Tim Soulo (Ahrefs).md`
+  * Other: 3 articles → `/research/other/Ahrefs Tim Soulo.md`
 * **Date Collected:** 2026-06-24
 
 ---
 
-### 2. Aleyda Solis
+### 2. Aleyda Solis (Orainti, SEOFOMO)
 * **Type:** Independent SEO Consultant + YouTube Educator
 * **YouTube:** https://www.youtube.com/@CrawlingMondaysbyAleyda
 * **LinkedIn:** https://www.linkedin.com/in/aleydasolis/
@@ -41,11 +43,13 @@
   * YouTube: "The AI Search Optimization Roadmap" (Sep 2025)
   * YouTube: "Google AI Mode vs Traditional Search" (Jul 2025)
   * YouTube: "SEO for LLMs - Adapting to the AI-first Web" (May 2025)
+  * LinkedIn: 3 posts → `/research/linkedin-posts/Aleyda Solis.md`
+  * Other: 3 articles → `/research/other/Aleyda Solis.md`
 * **Date Collected:** 2026-06-24
 
 ---
 
-### 3. Koray Tuğberk GÜBÜR
+### 3. Koray Tuğberk GÜBÜR (Holistic SEO)
 * **Type:** SEO Consultant + Independent Researcher
 * **YouTube:** https://www.youtube.com/@TopicalAuthority
 * **LinkedIn:** https://www.linkedin.com/in/koray-tugberk-gubur/
@@ -61,16 +65,19 @@
 * **Content Collected:**
   * YouTube: "AI Agents, Semantic SEO and Fortune 500 Secrets - Full Interview" (Feb 2026)
   * YouTube: "Technical SEO and Semantic SEO Deep Dive" (Nov 2024)
-  * YouTube: "Advanced SEO Tips 2025" (Mar 2025)
+  * YouTube: "Chat With Koray Tugberk Gubur - AI and the Evolution of SEO in 2026" (Mar 2026)
+  * LinkedIn: 3 posts → `/research/linkedin-posts/Koray Tugberk GUBUR.md`
+  * Other: 2 resources → `/research/other/Koray Tugberk GUBUR.md`
 * **Date Collected:** 2026-06-24
 
 ---
 
-### 4. Jono Alderson
+### 4. Jono Alderson (SEO Consultant & Meta)
 * **Type:** Independent Technical SEO Consultant + Speaker
 * **YouTube:** https://www.youtube.com/@jonoalderson
 * **LinkedIn:** https://www.linkedin.com/in/jonoalderson/
 * **Website:** https://jonoalderson.com
+* **Blog:** https://jonoalderson.com/blog
 * **Why Selected:** Jono Alderson is an independent technical SEO
   consultant and former Head of SEO at Yoast, where he led product
   strategy and R&D for one of the world's most widely used SEO
@@ -84,6 +91,8 @@
   * YouTube: "Content Marketing Is Dead - Long Live Brand" (Apr 2025)
   * YouTube: "Stop Assuming That Producing Content is a Necessary Component of Modern SEO" (Mar 2025)
   * YouTube: "SEO Strategy and Tips for 2025 - NitroPack Webinar" (Oct 2024)
+  * LinkedIn: 3 posts → `/research/linkedin-posts/Jono Alderson.md`
+  * Other: 3 articles → `/research/other/Jono Alderson.md`
 * **Date Collected:** 2026-06-25
 
 ---
@@ -105,11 +114,13 @@
   * YouTube: "Product-Led SEO in AI Era with Eli Schwartz" (Apr 2026)
   * YouTube: "Learn How to Optimize for AI Search - Live Surfer Demo" (Oct 2025)
   * YouTube: "SEO 2024 and Beyond - Strategies, Google Updates, and Surfer's Newest Tools" (May 2024)
+  * LinkedIn: 1 post → `/research/linkedin-posts/Michal Suski.md`
+  * Other: 2 articles → `/research/other/Michal Suski.md`
 * **Date Collected:** 2026-06-25
 
 ---
 
-### 6. Kevin Indig
+### 6. Kevin Indig (Advisor)
 * **Type:** Independent Growth Advisor + Newsletter Author
 * **YouTube:** https://www.youtube.com/@kevinindig
 * **LinkedIn:** https://www.linkedin.com/in/kevinindig/
@@ -125,14 +136,15 @@
   has become a reference point for practitioners building GEO strategies.
 * **Content Collected:**
   * YouTube: "The Great Decoupling - SEO Attribution and AI-Driven Growth Strategies" (Apr 2026)
-  * YouTube: "Preparing for Organic Growth in 2025" (Dec 2024)
-  * YouTube: "SEO in 2025 - Automate, Adapt, and Grow" (Nov 2024)
+  * YouTube: "Moving Beyond Old SEO Models in the Age of AI" (2026)
+  * YouTube: "SEO Has Changed Forever - What Marketers Need to Know Now" (Jul 2025)
+  * LinkedIn: 3 posts → `/research/linkedin-posts/Kevin Indig.md`
 * **Date Collected:** 2026-06-25
 
 ---
 
-### 7. Lily Ray
-* **Type:** VP SEO Strategy & Research + Independent Researcher
+### 7. Lily Ray (Amsive)
+* **Type:** VP SEO Strategy & Research (Amsive) + Algorithm Researcher
 * **YouTube:** https://www.youtube.com/@lilyraySEO
 * **LinkedIn:** https://www.linkedin.com/in/lily-ray-44755615/
 * **Substack:** https://lilyray.substack.com
@@ -149,6 +161,7 @@
   * YouTube: "GEO, AEO, LLMO - Separating Fact from Fiction and How to Win in AI Search" (Nov 2025)
   * YouTube: "The Future of SEO - Google Updates, AI Search and GEO Spam" (Mar 2026)
   * YouTube: "Lily Ray on AI Slop, GEO, and What Actually Works" (May 2026)
+  * LinkedIn: 3 posts → `/research/linkedin-posts/Lily Ray.md`
 * **Date Collected:** 2026-06-25
 
 ---
@@ -170,13 +183,15 @@
   * YouTube: "SEO Strategies That Make Money" (Nov 2025)
   * YouTube: "Agency Building and SEO with Ben Goodey" (Jun 2025)
   * YouTube: "Successful SEO Programs - The SaaS SEO Show" (Nov 2023)
+  * LinkedIn: 3 posts → `/research/linkedin-posts/Ben Goodey.md`
+  * Other: 1 study → `/research/other/Ben Goodey.md`
 * **Date Collected:** 2026-06-25
 
 ---
 
 ### 9. Ryan Law (Ahrefs)
 * **Type:** CMO at Ahrefs + AI Content Strategist
-* **YouTube:** https://www.youtube.com/@ahrefs
+* **YouTube:** https://www.youtube.com/@ahrefs *(Ahrefs Podcast channel)*
 * **LinkedIn:** https://www.linkedin.com/in/ryanlaw1/
 * **Website:** https://ahrefs.com/blog/author/ryan-law/
 * **Why Selected:** Ryan Law is CMO at Ahrefs and formerly VP of Content
@@ -190,12 +205,14 @@
 * **Content Collected:**
   * YouTube: "How to Automate Blog Writing with AI from Keyword to Published" (Apr 2026)
   * YouTube: "How to Win in AI Search - Real Data No Hype" (Oct 2025)
-  * YouTube: "How AI is a Revolution for Content Marketing" (2024)
+  * YouTube: "AI Writing at Scale - Ahrefs Step-by-Step Workflow" (Aug 2025)
+  * LinkedIn: 2 posts → `/research/linkedin-posts/Ryan Law.md`
+  * Other: 2 articles → `/research/other/Ryan Law.md`
 * **Date Collected:** 2026-06-25
 
 ---
 
-### 10. James Dooley
+### 10. James Dooley (PromoSEO & FatRank)
 * **Type:** SEO Entrepreneur + AI SEO Practitioner
 * **YouTube:** https://www.youtube.com/@JamesDooley
 * **LinkedIn:** https://www.linkedin.com/in/jdooley/
@@ -212,4 +229,8 @@
   * YouTube: "AI SEO Strategies 2026" (May 2026)
   * YouTube: "The Future of AI SEO - Futuristic Ideas of SEO and AI" (Jan 2026)
   * YouTube: "AI SEO Tips and Tricks" (Feb 2026)
+  * LinkedIn: 1 post → `/research/linkedin-posts/James Dooley.md`
+  * Other: 1 article → `/research/other/James Dooley.md`
 * **Date Collected:** 2026-06-25
+
+---
